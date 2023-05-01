@@ -4,4 +4,4 @@ In this repository, I use Streamlit share to deploy an app built on streamlit. T
 
 The app creates an avatar based on the users' choices of the options provided. Changes to the avatar can be viewed before downloading the final image.
 
-The deployed web app is live at 
+The deployed web app is live at https://stan-leigh-avatar-maker-app-avatar-app-4f6sov.streamlit.app/
